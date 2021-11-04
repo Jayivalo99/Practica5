@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:/Users/52961/Desktop/9-°K/Servicios Web/Practica5_A170132/ejemplo1.xsl"?>
+<libros>
+<libro>
+  <nombre>El Psicoanalista</nombre>
+  <genero>Suspenso, ficción thriller</genero>
+  <año>2002</año>
+</libro>
+<libro>
+  <nombre>La historia del loco</nombre>
+  <genero>Novela</genero>
+  <año>2004</año>
+</libro>
+<libro>
+  <nombre>Personas desconocidas</nombre>
+  <genero>Suspenso, ficción thriller</genero>
+  <año>2016</año>
+</libro>
+<libro>
+  <nombre>El profesor</nombre>
+  <genero>Suspenso, ficción, thriller, misterio</genero>
+  <año>2002</año>
+</libro>
+</libros>
